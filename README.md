@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mankish
 - 👀 I’m interested in learning coding
-- 🌱 I’m currently learning DevOps course
+- 🌱 I’m currently learning DevOps 
 - 💞️ I’m looking to collaborate on DevOps tools
 - 📫 How to reach me @Mankish
 - 😄 Pronouns: ...
